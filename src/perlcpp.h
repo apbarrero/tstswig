@@ -1,0 +1,2 @@
+bool getTrue();
+bool getFalse();
